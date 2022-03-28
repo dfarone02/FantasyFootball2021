@@ -20,7 +20,6 @@ The stats that are measured to see what is most important to a team's success ar
       WRPts- Same as above, but for the Wide Receiver position
      
       TEPts- Same as above, but for the Tight End position
-      
      
       Flex same as above, but for the Flex(Pick a WR or TE or RB that week) position
       
