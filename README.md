@@ -3,6 +3,7 @@ Some statisitics and lasso regression model for a 2021 Fantasy Football League o
 to see what statistics and traits were most prevalent among the 4 teams that made the playoffs and the team that won the playoffs:
 
 The stats that are measured to see what is most important to a team's success are:
+      
       Wins- How many weeks a team won their matchup over 14 weeks.
       
       Losses- How many weeks a team lost their matchup over 14 weeks.
